@@ -95,8 +95,8 @@ It allows users to **store, manage, and protect passwords and credit or debit ca
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/2000Deba/NoPass.git
-   cd NoPass
+   git clone https://github.com/perfectCoder-dev/Nopass-App.git
+   cd Nopass-App
    ```
 
 2. **Install dependencies**
